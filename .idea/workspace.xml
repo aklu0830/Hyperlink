@@ -29,7 +29,7 @@
     <property name="javascript.nodejs.core.library.typings.version" value="14.10.1" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="build.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +47,7 @@
       <workItem from="1600206822485" duration="106000" />
       <workItem from="1600206956277" duration="3000" />
       <workItem from="1600274987650" duration="20000" />
-      <workItem from="1600275026938" duration="4052000" />
+      <workItem from="1600275026938" duration="5088000" />
     </task>
     <servers />
   </component>
@@ -63,10 +63,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="430" y="302" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600278205129" />
-    <state x="151" y="192" key="SettingsEditor" timestamp="1600278211938">
+    <state x="151" y="192" key="SettingsEditor" timestamp="1600281147797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="151" y="192" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600278211938" />
+    <state x="151" y="192" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600281147797" />
     <state x="1096" y="242" key="run.anything.popup" timestamp="1600204014742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
