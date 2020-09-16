@@ -1,0 +1,20 @@
+{
+  "name": "hyperbotdotjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "giphy-js-sdk-core": "^1.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-tesseract": "0.0.3"
+  }
+}
