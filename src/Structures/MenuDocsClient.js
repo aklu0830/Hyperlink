@@ -13,8 +13,8 @@ module.exports = class MenuDocsClient extends Client {
         });
 
         this.on("message", async (message) => {
-            const mentionRegex = RegExp(`^<@!${this.user.id}>`);
-            const mentionRegexPrefix = RegExp(`^<@!${this.user.id}>`);
+            const mentionRegex = RegExp(`^<@!${this.user.id}>$`);
+            const mentionRegexPrefix = RegExp(`^<@!${this.user.id}> `);
 
             if (message.guild || message.author.bot) return;
 
@@ -23,6 +23,7 @@ module.exports = class MenuDocsClient extends Client {
             const prefix = message.content.match(mentionRegexPrefix) ?
                 message.content.match(mentionRegexPrefix)[0] : this.prefix;
 
+            // eslint-disable-next-Line no-unused-vars
             const [cmd, ...args] = message.content.slice(prefix.length).trim().split(/ +/g);
 
             if (cmd.toLowerCase() === 'hello') {
@@ -30,4 +31,20 @@ module.exports = class MenuDocsClient extends Client {
             }
         });
     }
-}
+
+    validate(options) {
+        if (typeof options !== 'object') throw new TypeError('Options should be a type of objects');
+
+        if (!options.token) throw new Error('You must pass the token for the client');
+        this.token = options.token;
+
+        if (!options.prefix) throw new Error('You must pass prefix for the client');
+        if (typeof options.prefix !== 'string') throw new Error('Prefix should be a type of string');
+        this.prefix = options.prefix;
+
+    }
+
+    async login(token = this.token) {
+        super.login(token)
+    }
+};

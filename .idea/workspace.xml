@@ -23,44 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12abd577-26e4-4079-8a92-ceacdc624c16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Structures/MenuDocsClient.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/command.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@discordjs/collection/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@discordjs/collection/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@discordjs/form-data/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@discordjs/form-data/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/abort-controller/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/abort-controller/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asap/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asap/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/combined-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/discord.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/discord.js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/encoding/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/encoding/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/es6-promise/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint-config-tesseract/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-config-tesseract/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/event-target-shim/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/event-target-shim/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/giphy-js-sdk-core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/giphy-js-sdk-core/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/isomorphic-fetch/node_modules/node-fetch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/isomorphic-fetch/node_modules/node-fetch/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/isomorphic-fetch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/isomorphic-fetch/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-db/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-types/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-fetch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-fetch/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/prism-media/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/prism-media/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/promise/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/promise/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/safer-buffer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/setimmediate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/setimmediate/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tweetnacl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tweetnacl/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/whatwg-fetch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/whatwg-fetch/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ws/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Structures/MenuDocsClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Structures/MenuDocsClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +88,7 @@
       <workItem from="1600284543178" duration="1789000" />
       <workItem from="1600287503543" duration="100000" />
       <workItem from="1600287661318" duration="1025000" />
-      <workItem from="1600317542243" duration="690000" />
+      <workItem from="1600317542243" duration="2383000" />
     </task>
     <servers />
   </component>
@@ -158,6 +123,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="151" y="192" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600281147797" />
+    <state x="911" y="281" key="Vcs.Push.Dialog.v2" timestamp="1600318353185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="911" y="281" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600318353185" />
     <state x="1096" y="242" key="run.anything.popup" timestamp="1600204014742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
